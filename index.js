@@ -3,7 +3,7 @@ const greet = (string) => `hello ${string}`;
 
 const add = (a, b) => a + b;
 
-const reverse = (string) => string.reverse();
+// const reverse = (string) => string.split('').reverse().join();
 
 
 module.exports = {

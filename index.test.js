@@ -13,5 +13,5 @@ test('should add two numbers and return a value', () => {
 })
 
 test('should reverse a string', () => {
-    expect(reverse('hello')).toBe('olleh');
+    expect(reverse('shello')).toBe('ollehs');
 })

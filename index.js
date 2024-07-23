@@ -9,5 +9,5 @@ const add = (a, b) => a + b;
 module.exports = {
     greet,
     add,
-    reverse,
+    // reverse,
 }

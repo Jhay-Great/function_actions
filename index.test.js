@@ -1,7 +1,7 @@
 const {
     greet,
     add,
-    reverse
+    // reverse
 } = require('./index')
 
 test('should greet user with hello',  () => {
